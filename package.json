@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "keywords": [],
+  "scripts": {
+    "test": "playwright test tests/navigate-to-rahulshetty.spec.js"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
